@@ -1,0 +1,14 @@
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\bin\Debug\RegexSearch.exe.config
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\bin\Debug\RegexSearch.exe
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\bin\Debug\RegexSearch.pdb
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.csproj.AssemblyReference.cache
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\MainWindow.baml
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\MainWindow.g.cs
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\App.g.cs
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch_MarkupCompile.cache
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.g.resources
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.Properties.Resources.resources
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.csproj.GenerateResource.cache
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.csproj.CoreCompileInputs.cache
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.exe
+C:\Users\atomar\source\repos\RegexSearch\RegexSearch\obj\Debug\RegexSearch.pdb
